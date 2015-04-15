@@ -5,8 +5,6 @@
    
     <title>关于我们</title>
 
-
- 
   </head>
 
  <body>
@@ -17,8 +15,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<h2>我们是一家创业型的微型网店</h2>
-					
+					<h2></h2>
+					<p>我们是一家创业型的微型网店</p>
 				</div>
 			</div>
 		</div>

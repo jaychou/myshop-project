@@ -32,20 +32,23 @@
 	          <img class="img-circle" src="resources/img/lyej_1.jpg" alt="Generic placeholder image" width="140" height="140">
 	          <h2>蓝牙耳机</h2>
 	          <p>应用在免持耳机上，让使用者可以免除恼人电线的牵绊，自在地以各种方式轻松通话</p>
-	          <p><span class="fd-cny fd-left">¥ </span><span class="fd-cny fd-left">22 </span></p>
-	          <p><a class="btn btn-default" href="#" role="button">查看详情 &raquo;</a></p>
+	          <p><span class="fd-cny ">¥ </span><span class="fd-cny ">22 </span></p>
+	          <p><a class="btn btn-default" href="#" >查看详情 &raquo;</a></p>
 	        </div><!-- /.col-lg-4 -->
+	        
 	        <div class="col-lg-4">
-	          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-	          <h2>Heading</h2>
-	          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-	          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-	        </div><!-- /.col-lg-4 -->
+	          <img class="img-circle" src="resources/img/jpg_1.jpg" alt="Generic placeholder image" width="140" height="140">
+	          <h2>自拍杆</h2>
+	          <p>最近风靡的自拍神器，它能够在20厘米到120厘米长度间任意伸缩，使用者只需将手机或者傻瓜相机固定在伸缩杆上，通过遥控器就能实现多角度自拍</p>
+			  <p><span class="fd-cny ">¥ </span><span class="fd-cny ">12 </span></p>
+	          <p><a class="btn btn-default" href="#" >查看详情 &raquo;</a></p>	        </div><!-- /.col-lg-4 -->
+	       
 	        <div class="col-lg-4">
-	          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-	          <h2>Heading</h2>
-	          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-	          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+	          <img class="img-circle" src="resources/img/lyyx_1.jpg" alt="Generic placeholder image" width="140" height="140">
+	          <h2>蓝牙音箱</h2>
+	          <p>内置蓝牙芯片，以蓝牙连接取代传统线材连接的音响设备，通过与手机 平板电脑和笔记本等蓝牙播放设备连接，达到方便快捷的目的</p>
+	          <p><span class="fd-cny ">¥ </span><span class="fd-cny ">102 </span></p>
+	          <p><a class="btn btn-default" href="#" >查看详情 &raquo;</a></p>	
 	        </div><!-- /.col-lg-4 -->
 	      </div><!-- /.row -->
 

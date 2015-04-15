@@ -1,6 +1,4 @@
 <%@ page contentType="text/html; charset=UTF-8"%>
-<%@ taglib uri="http://www.opensymphony.com/sitemesh/decorator"
-	prefix="decorator"%>
 
 <!DOCTYPE html>
 <html lang="zh_cn">
@@ -10,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-<title><decorator:title default="ActiveMQ Console" /></title>
+<title>阳阳科技电子店</title>
 
 <!-- Bootstrap core CSS -->
 <link href="resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -24,7 +22,6 @@
     <![endif]-->
 
 
-<decorator:head />
 </head>
 
 <body>
@@ -47,11 +44,11 @@
 				id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav nav-left">
 					<li id="index" ><a href="index.htm">首页</a></li>
-					<li id="about"><a href="about.htm" >关于</a></li>
+					<li id="about"><a href="about.jsp" >关于</a></li>
 					<li><a href="profile.htm">文档</a></li>
 					<li><a href="contact.htm">联系</a></li>
 				</ul>
-				<a href="#" class="logo visible-lg visible-md"><img 
+				<a href="#" class="logo visible-lg visible-md"><img
 					src="resources/img/logo.jpg"
 					alt="dodolan manuk responsive catalog themes"></a>
 				<div id="brand" class="visible-lg visible-md">&nbsp;</div>
@@ -84,7 +81,16 @@
 		<!-- /.container-fluid -->
 	</nav>
 
-	<decorator:body />
+	<div id="tagline" style="margin-top: 60px;">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h2></h2>
+					<p>功能正在开发中....</p>
+				</div>
+			</div>
+		</div>
+	</div>
 
 	<!-- begin:copyright -->
 	<div id="copyright">

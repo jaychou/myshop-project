@@ -31,8 +31,17 @@
   
   <servlet-mapping>
     <servlet-name>webproject</servlet-name>
-    <url-pattern>/index.htm</url-pattern>
+    <url-pattern>*.htm</url-pattern>
   </servlet-mapping>
   
+  
+  <error-page> 
+	    <error-code>404</error-code> 
+	    <location>/error.htm</location> 
+	</error-page> 
+	<error-page> 
+	    <error-code>500</error-code> 
+	    <location>/error.htm</location> 
+	</error-page> 
   
 </web-app>
