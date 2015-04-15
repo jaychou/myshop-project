@@ -1,0 +1,115 @@
+div {
+	display: block;
+}
+
+.breadcrumbs {
+	position: relative;
+	border-bottom: 1px solid #e5e5e5;
+	background-color: #f5f5f5;
+	min-height: 40px;
+	line-height: 39px;
+	padding: 0 12px 0 0;
+	display: block;
+}
+
+.breadcrumb {
+	background-color: transparent;
+	line-height: 24px;
+	margin: 0 22px 0 12px;
+	padding: 0;
+	font-size: 13px;
+	color: #333;
+	border-radius: 0;
+}
+
+.profile-picture {
+	border: 1px solid #CCC;
+	background-color: #FFF;
+	padding: 4px;
+	display: inline-block;
+	max-width: 100%;
+	-moz-box-sizing: border-box;
+	box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+}
+
+img.editable {
+	border: 1px dotted #BBB;
+}
+
+.editable {
+	border-bottom: 1px dashed #BBB;
+	cursor: pointer;
+	font-weight: normal;
+}
+
+.editable-empty,.editable-empty:hover,.editable-empty:focus {
+	font-style: italic;
+	color: #DD1144;
+	/* border-bottom: none; */
+	text-decoration: none;
+}
+
+.editable-click,a.editable-click,a.editable-click:hover {
+	text-decoration: none;
+	border-bottom: dashed 1px #0088cc;
+}
+
+img {
+	width: auto\9;
+	height: auto;
+	max-width: 100%;
+	vertical-align: middle;
+	border: 0;
+	-ms-interpolation-mode: bicubic;
+}
+
+.profile-user-info-striped {
+	border: 1px solid #dcebf7;
+}
+
+.profile-user-info {
+	margin: 0 12px;
+}
+
+.profile-info-row {
+	position: relative;
+}
+
+.profile-info-row:first-child .profile-info-name {
+	border-top: 0;
+}
+
+.profile-user-info-striped .profile-info-name {
+	color: #336199;
+	background-color: #edf3f4;
+	border-top: 1px solid #f7fbff;
+}
+
+.profile-info-name {
+	position: absolute;
+	width: 110px;
+	text-align: right;
+	padding: 6px 10px 6px 0;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	font-weight: normal;
+	color: #667e99;
+	background-color: transparent;
+	border-top: 1px dotted #d5e4f1;
+}
+
+.profile-info-row:first-child .profile-info-value {
+	border-top: 0;
+}
+
+.profile-user-info-striped .profile-info-value {
+	border-top: 1px dotted #dcebf7;
+	padding-left: 12px;
+}
+
+.profile-info-value {
+	padding: 6px 4px 6px 6px;
+	margin-left: 120px;
+	border-top: 1px dotted #d5e4f1;
+}

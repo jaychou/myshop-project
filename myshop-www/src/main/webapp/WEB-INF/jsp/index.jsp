@@ -4,12 +4,7 @@
   <head>
     <title>阳阳科技电子店</title>
     <script src="resources/js/jquery.min.js"></script>
-    <style type="text/css">
-       .fd-cny {
-         color: red;
-         font-size: 16px;
-       }
-    </style>
+   
   </head>
  <body>
 
@@ -33,7 +28,7 @@
 	          <h2>蓝牙耳机</h2>
 	          <p>应用在免持耳机上，让使用者可以免除恼人电线的牵绊，自在地以各种方式轻松通话</p>
 	          <p><span class="fd-cny ">¥ </span><span class="fd-cny ">22 </span></p>
-	          <p><a class="btn btn-default" href="#" >查看详情 &raquo;</a></p>
+	          <p><a class="btn btn-default" href="viewproduct.htm?id=10086" >查看详情 &raquo;</a></p>
 	        </div><!-- /.col-lg-4 -->
 	        
 	        <div class="col-lg-4">
