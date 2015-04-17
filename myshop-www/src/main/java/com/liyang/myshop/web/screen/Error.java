@@ -1,4 +1,4 @@
-package com.liyang.webproject.web.screen;
+package com.liyang.myshop.web.screen;
 
 
 import org.apache.log4j.Logger;

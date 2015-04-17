@@ -1,4 +1,4 @@
-package com.liyang.webproject.domain.logic;
+package com.liyang.myshop.domain.logic;
 
 import java.util.List;
 
@@ -6,8 +6,8 @@ import javax.annotation.Resource;
 
 import org.springframework.stereotype.Service;
 
-import com.liyang.webproject.domain.entity.Product;
-import com.liyang.webproject.persistence.mapper.ProductMapper;
+import com.liyang.myshop.domain.entity.Product;
+import com.liyang.myshop.persistence.mapper.ProductMapper;
 
 @Service
 public class WebprojectFacadeImpl implements WebprojectFacade{
@@ -15,9 +15,11 @@ public class WebprojectFacadeImpl implements WebprojectFacade{
 	@Resource
 	private ProductMapper productMapper;
 
-	@Override
 	public List<Product> getProductList() {
-		return productMapper.list();
+		// TODO Auto-generated method stub
+		return null;
 	}
+
+	
 
 }

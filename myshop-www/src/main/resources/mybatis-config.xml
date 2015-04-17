@@ -7,7 +7,7 @@
 	</settings>
 
 	<typeAliases>
-		<typeAlias type="com.liyang.webproject.domain.entity.Product" alias="Product" />
+		<typeAlias type="com.liyang.myshop.domain.entity.Product" alias="Product" />
 		
 	</typeAliases>
 

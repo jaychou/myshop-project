@@ -21,7 +21,10 @@
     </bean>
     
 
-    <mvc:annotation-driven />
+    
+    
+    <!-- htm -->
+    <bean name="/index.htm" class="com.liyang.myshop.web.screen.Index"></bean>
     
 	
 </beans>

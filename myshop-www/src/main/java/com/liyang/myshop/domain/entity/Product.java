@@ -1,4 +1,4 @@
-package com.liyang.webproject.domain.entity;
+package com.liyang.myshop.domain.entity;
 
 public class Product {
 	

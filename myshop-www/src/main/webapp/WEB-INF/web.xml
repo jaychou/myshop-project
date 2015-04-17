@@ -24,13 +24,22 @@
     <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
   </listener>
   
+  <context-param>
+     <param-name>contextConfigLocation</param-name>
+     <param-value>classpath:applicationContext.xml</param-value>
+  </context-param>
+  
   <servlet>
-    <servlet-name>webproject</servlet-name>
+    <servlet-name>myshop</servlet-name>
     <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+    <init-param>
+       <param-name>contextConfigLocation</param-name>
+       <param-value>classpath:myshop-servlet.xml</param-value>
+    </init-param>
   </servlet>
   
   <servlet-mapping>
-    <servlet-name>webproject</servlet-name>
+    <servlet-name>myshop</servlet-name>
     <url-pattern>*.htm</url-pattern>
   </servlet-mapping>
   

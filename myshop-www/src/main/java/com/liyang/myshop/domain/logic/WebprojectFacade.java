@@ -1,8 +1,8 @@
-package com.liyang.webproject.domain.logic;
+package com.liyang.myshop.domain.logic;
 
 import java.util.List;
 
-import com.liyang.webproject.domain.entity.Product;
+import com.liyang.myshop.domain.entity.Product;
 
 public interface WebprojectFacade {
 	

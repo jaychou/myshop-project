@@ -13,7 +13,7 @@
 	
 	<!-- 自动扫描 mybatis mapper接口 -->
 	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-		<property name="basePackage" value="com.liyang.webproject.persistence.mapper" />
+		<property name="basePackage" value="com.liyang.myshop.persistence.mapper" />
 	</bean>	
 	
 </beans>
